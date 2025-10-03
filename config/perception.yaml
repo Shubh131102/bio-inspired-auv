@@ -1,0 +1,3 @@
+camera_topic: /camera/image_raw
+lidar_topic: /lidar/points
+min_distance_m: 0.8
