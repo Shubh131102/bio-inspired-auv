@@ -1,0 +1,4 @@
+imu_topic: /imu/data
+Q_diag: [0.02, 0.02, 0.02, 0.01, 0.01, 0.01]
+R_diag: [0.05, 0.05, 0.05]
+publish_rate: 100
